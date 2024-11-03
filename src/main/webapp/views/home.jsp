@@ -19,8 +19,9 @@
             font-family: Arial, sans-serif;
             background-color: #e3f2fd; /* Light bluish background */
         }
+        /* Navbar Styles */
         .navbar {
-            background-color: #1565c0; /* Darker blue for navbar */
+            background-color: #1565c0;
             padding: 1em;
             display: flex;
             justify-content: space-between;
@@ -33,7 +34,7 @@
             padding: 0.5em 1em;
         }
         .navbar a:hover {
-            background-color: #0d47a1; /* Even darker blue on hover */
+            background-color: #0d47a1;
             border-radius: 4px;
         }
 
